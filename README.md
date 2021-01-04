@@ -1,3 +1,6 @@
 # Predicting Air Quality Index (Data Science Project with Deployment)
 
-Link: https://airqualitydatascienceproject.herokuapp.com/
+## Link (Deployed in Heroku): https://airqualitydatascienceproject.herokuapp.com/
+
+## Data Source: https://en.tutiempo.net/ & https://openweathermap.org/
+
